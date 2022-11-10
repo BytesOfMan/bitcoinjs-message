@@ -1,3 +1,11 @@
+# 1.0.4
+__added__
+- Verification support for eCash signed messages
+- Verification support for eCash address format
+__removed__
+- Verification support for segwit
+- Verification support for bitcoin legacy address format
+
 # 2.2.0
 __added__
 - Signer and SignerAsync interfaces
