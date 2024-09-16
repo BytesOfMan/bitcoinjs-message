@@ -1,14 +1,15 @@
 {
-  "name": "bitcoinjs-message",
-  "version": "2.2.0",
-  "description": "bitcoinjs-message",
+  "name": "xecjs-message",
+  "version": "1.0.4",
+  "description": "xecjs-message",
   "keywords": [
-    "bitcoinjs-message",
-    "bitcoin"
+    "xecjs-message",
+    "xec",
+    "ecash"
   ],
-  "homepage": "https://github.com/bitcoinjs/bitcoinjs-message",
+  "homepage": "https://github.com/BytesOfMan/bitcoinjs-message",
   "bugs": {
-    "url": "https://github.com/bitcoinjs/bitcoinjs-message/issues"
+    "url": "https://github.com/BytesOfMan/bitcoinjs-message/issues"
   },
   "license": "MIT",
   "files": [
@@ -33,6 +34,7 @@
     "bs58check": "^2.1.2",
     "buffer-equals": "^1.0.3",
     "create-hash": "^1.1.2",
+    "ecashaddrjs": "^1.0.7",
     "secp256k1": "^3.0.1",
     "varuint-bitcoin": "^1.0.1"
   },
